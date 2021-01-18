@@ -1,0 +1,9 @@
+com\petstore\junit\PUT\UpdatePetTest.class
+com\petstore\testbase\TestBase.class
+com\petstore\junit\GET\GetPetByIdTest.class
+com\petstore\junit\DELETE\DeletePetTest.class
+com\petstore\junit\GET\GetPetByStatusTest.class
+com\petstore\junit\POST\CreatePetTest.class
+com\petstore\junit\POST\CreatePetDataDriven.class
+com\petstore\utils\Util.class
+com\petstore\cucumber\serenity\PetstoreSerenitySteps.class

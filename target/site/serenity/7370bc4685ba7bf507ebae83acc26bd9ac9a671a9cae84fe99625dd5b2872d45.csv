@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get pet by id test","This test is GET pet by ID","SUCCESS","2021-01-18T17:51:27.2959307Z[Europe/Dublin]","0.0","7.46"
+"Update pet test","This test is to update the PET","SUCCESS","2021-01-18T17:51:27.607932Z[Europe/Dublin]","0.0","7.56"

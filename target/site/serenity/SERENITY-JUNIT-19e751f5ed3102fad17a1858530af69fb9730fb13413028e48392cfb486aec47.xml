@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.petstore.junit.GET.GetPetByIdTest" skipped="0" tests="1" time="7.46" timestamp="2021-01-18 05:51:27"><testcase classname="com.petstore.junit.GET.GetPetByIdTest" name="This test is GET pet by ID"/></testsuite>

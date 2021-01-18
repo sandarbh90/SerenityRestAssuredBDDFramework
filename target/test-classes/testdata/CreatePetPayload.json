@@ -1,0 +1,17 @@
+ {
+        "category": {
+            "id": 200,
+            "name": "pasari"
+        },
+        "name": "fz4lld",
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    }
